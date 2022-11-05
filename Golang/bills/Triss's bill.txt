@@ -1,0 +1,9 @@
+BILL TOTAL BREAKDOWN 
+Coffee:                   ...2.99
+Chocolate:                ...7.99
+Milk shake:               ...4.99
+Chicken nugets:           ...12.5
+
+TIP:                      ...4.27
+
+TOTAL:                    ...32.74

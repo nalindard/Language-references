@@ -1,0 +1,9 @@
+
+-BILL TOTAL BREAKDOWN- 
+BBQ:                      ...12.99
+Coffee:                   ...7.99
+Chocolate:                ...2.99
+
+TIP:                      ...0.99
+
+TOTAL:                    ...24.96

@@ -1,0 +1,15 @@
+C:\Users\Nalinda Dissanayake\Desktop\C#\notes\bin\Debug\net6.0\notes.exe
+C:\Users\Nalinda Dissanayake\Desktop\C#\notes\bin\Debug\net6.0\notes.deps.json
+C:\Users\Nalinda Dissanayake\Desktop\C#\notes\bin\Debug\net6.0\notes.runtimeconfig.json
+C:\Users\Nalinda Dissanayake\Desktop\C#\notes\bin\Debug\net6.0\notes.dll
+C:\Users\Nalinda Dissanayake\Desktop\C#\notes\bin\Debug\net6.0\notes.pdb
+C:\Users\Nalinda Dissanayake\Desktop\C#\notes\obj\Debug\net6.0\notes.csproj.AssemblyReference.cache
+C:\Users\Nalinda Dissanayake\Desktop\C#\notes\obj\Debug\net6.0\notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nalinda Dissanayake\Desktop\C#\notes\obj\Debug\net6.0\notes.AssemblyInfoInputs.cache
+C:\Users\Nalinda Dissanayake\Desktop\C#\notes\obj\Debug\net6.0\notes.AssemblyInfo.cs
+C:\Users\Nalinda Dissanayake\Desktop\C#\notes\obj\Debug\net6.0\notes.csproj.CoreCompileInputs.cache
+C:\Users\Nalinda Dissanayake\Desktop\C#\notes\obj\Debug\net6.0\notes.dll
+C:\Users\Nalinda Dissanayake\Desktop\C#\notes\obj\Debug\net6.0\refint\notes.dll
+C:\Users\Nalinda Dissanayake\Desktop\C#\notes\obj\Debug\net6.0\notes.pdb
+C:\Users\Nalinda Dissanayake\Desktop\C#\notes\obj\Debug\net6.0\notes.genruntimeconfig.cache
+C:\Users\Nalinda Dissanayake\Desktop\C#\notes\obj\Debug\net6.0\ref\notes.dll

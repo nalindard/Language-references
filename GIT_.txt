@@ -1,0 +1,132 @@
+# git init
+
+# git status
+
+# git add file.type
+
+# git add .
+
+# git rm --cached file.type
+
+# git commit -m "commit msg"
+
+# git log
+
+# git log -online
+
+---
+Backward
+---
+
+* checkout / revert / reset
+
+# git ---- for all 3
+
+# git reset --hard for hard reset
+
+
+---
+Branch
+---
+
+# git branch name (create)
+
+# git checkout -b name ( === create && switch)
+
+# git branch -a (show all)
+
+# git checkout name
+
+
+working on a branch ? just add . && commit as normal :)
+
+# git branch -d name (delete after merge)
+# git branch -D name (delete before merge)
+
+
+
+---
+Merge
+---
+
+# git merge name ( ! do this after switch to master brach )
+
+* on a conflict merge, commit without a message
+
+
+---
+Github
+---
+
+# git push link branch ( after commit )
+
+# git remote add origin link ( origin stands for default )
+
+# git push origin master ( push to default )
+
+# git remote -v ( show links )
+
+//
+
+# git clone link
+
+
+---
+Day
+---
+
+01 First update our files via,
+	# git pull origin master
+
+02 Create our branch via,
+	# git checkout -b name
+
+03 Add files via,
+	# git add .
+
+04 Commit files via,
+	# git commit -m "massage"
+
+05 Send a pull request via,
+	# git push origin name ( from name branch, not from master )
+
+06 Check the send pull request && and create a pull request with description via github,
+	# github
+
+07 Wait
+	# Manager will check the code && merge via github,
+
+08 After merge,
+	# Delete branch if no need anymore via github,
+
+09 Switch to Master via,
+	# git checkout master
+
+10 Update master via,
+	# git pull origin master
+
+Final,
+	# new branch && repeat !
+	
+	
+
+
+
+
+
+---
+IRL
+---
+
+
+* Undo changes of tracked files since last commit via,
+	#	git reset HEAD --hard
+	
+* Remove untracked files since last commit via,
+	#	git clean -f
+	
+* Remove untracked dirs && files since last commit via,
+	#	git clean -fd
+	
+* Remove ignored && untracked dirs && files since last commit via,
+	#	git clean -fdx	
